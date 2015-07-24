@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="title">Welcome TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="level">Level</string>
+    <string name="hard">Hard</string>
+    <string name="easy">Easy</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="restart">Start a new game</string>
+    <string name="regret">Regret</string>
+    <string name="back">Menu</string>
+    <string name="cTurn">It\'s Android\'s turn.</string>
+    <string name="uTurn">It\'s your turn (X).</string>
+    <string name="cWin">Android won!</string>
+    <string name="uWin">You won!</string>
+    <string name="tie">It\'s a tie!</string>
+    <string name="noMove">You still have not do any move</string>
+</resources>
