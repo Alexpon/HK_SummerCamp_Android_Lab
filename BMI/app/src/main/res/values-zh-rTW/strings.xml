@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="height">身高</string>
+    <string name="weight">體重(磅)</string>
+    <string name="submit">看BMI報表</string>
+    <string name="btn_about">關於</string>
+    <string name="action_settings">設置</string>
+    <string name="bmi_result">你的BMI值 </string>
+    <string name="bmi_heavy">你需要做更多的活動</string>
+    <string name="bmi_avg">你看起來很棒</string>
+    <string name="bmi_thin">你需要多吃點</string>
+    <string name="err_Hspace">身高不能是空的</string>
+    <string name="err_Wspace">體重不能是空的</string>
+    <string name="err_Hzero">身高不能為零</string>
+    <string name="err_Wzero">體重不能為零</string>
+    <string name="about_title">關於BMI</string>
+    <string name="about_msg">BMI=體重指數=體重（公斤）/身高（米）^ 2; 20之間的BMI為25適合.</string>
+    <string name="menu_about">關於BMI</string>
+    <string name="menu_wiki">BMI 維基</string>
+    <string name="menu_exit">退出</string>
+    <string-array name="feet">
+        <item>1 英尺</item>
+        <item>2 英尺</item>
+        <item>3 英尺</item>
+        <item>4 英尺</item>
+        <item>5 英尺</item>
+        <item>6 英尺</item>
+        <item>7 英尺</item>
+        <item>8 英尺</item>
+    </string-array>
+    <string-array name="inch">
+        <item>0 英寸</item>
+        <item>1 英寸</item>
+        <item>2 英寸</item>
+        <item>3 英寸</item>
+        <item>4 英寸</item>
+        <item>5 英寸</item>
+        <item>6 英寸</item>
+        <item>7 英寸</item>
+        <item>8 英寸</item>
+        <item>9 英寸</item>
+        <item>10 英寸</item>
+        <item>11 英寸</item>
+    </string-array>
+</resources>
