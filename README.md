@@ -9,5 +9,5 @@
   
 ## Lab:
   * BMI
-  * FileStorae
+  * FileStorage
   * TicTacToe
