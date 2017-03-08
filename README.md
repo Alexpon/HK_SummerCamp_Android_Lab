@@ -11,3 +11,6 @@
   * BMI
   * FileStorage
   * TicTacToe
+
+## Final Project:
+  * Go Riging
