@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HKBike</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_go">New Trip</string>
+    <string name="btn_login">Login</string>
+    <string name="title_activity_choose_tour">ChooseTour</string>
+
+    <string-array name="main_drawer">
+        <item>個人資料</item>
+        <item>修改資料</item>
+        <item>排行榜</item>
+        <item>關於</item>
+    </string-array>
+    <string-array name="trip">
+        <item>元朗-南生園</item>
+        <item>元朗-天水圍</item>
+        <item>天水圍-白泥</item>
+        <item>上水雙魚河畔</item>
+        <item>東涌-迪士尼</item>
+        <item>大圍-船灣淡水湖</item>
+        <item>環新界</item>
+        <item>東涌-沙螺灣-昂平-大澳-天水圍</item>
+        <item>沙田–大埔</item>
+    </string-array>
+    <string-array name="renting">
+        <item>YES</item>
+        <item>YES</item>
+        <item>YES</item>
+        <item>YES</item>
+        <item>NO</item>
+        <item>NO</item>
+        <item>YES</item>
+        <item>NO</item>
+        <item>YES</item>
+    </string-array>
+    <string-array name="length">
+        <item>10 km</item>
+        <item>8.6 km</item>
+        <item>10 km</item>
+        <item>2.5 km</item>
+        <item>99 km</item>
+        <item>99 km</item>
+        <item>99 km</item>
+        <item>99 km</item>
+        <item>99 km</item>
+    </string-array>
+    <string-array name="time">
+        <item>1.5 hr</item>
+        <item>2.0 hr</item>
+        <item>1.5 hr</item>
+        <item>3.0 hr</item>
+        <item>9.9 hr</item>
+        <item>9.9 hr</item>
+        <item>9.9 hr</item>
+        <item>9.9 hr</item>
+        <item>9.9 hr</item>
+    </string-array>
+    <string-array name="intro">
+        <item>            1. 此路線高低起伏接近零，適合新手。\n
+            2. 剛開始元朗段的分岔路較多，較易迷路，要先熟讀地圖。\n
+            3. 天水圍段有走行人路的路段，法例規定行人路不可踩單車，為免違法，建議在行人路時落車推車。\n
+            4. 天水圍河畔南邊的單車徑比較顛簸，注意安全。</item>
+        <item>            1. 加上南生圍對岸的路線，總長约为14.6km。\n
+            2. 南生圍路有一些士多方便大家需要補給，但是沿途廁所較少。\n
+            3. 有些路段需要踩馬路，但交通流量都不多，只要小心一些靠左就OK。\n
+            4. 愛護大自然，請勿於南生圍隨意破壞環境。\n</item>
+        <item>            1. 如果想睇日落要預早計劃行程。( 通常冬天會於5時多日落，而夏天就大約6時多 )\n
+            2. 流浮山道平日會有頗多大型車輛出入，加上路面會有碎石，所以要特別小心，有需要可以在行人路單行推車。\n
+            3. 深灣路 / 稔灣路有很多村民有養狗，要多加小心。\n
+            4. 日落後的能見度變低，為了自己的安全及符合法例要求，應該要裝上前白燈後紅燈，並於回程時亮著。\n</item>
+        <item>            1. 難度很低，適合新手。\n
+            2. 因為上水未有單車舖提供租車服務，建議有自己單車的朋友踩這條路線。\n
+            3. 除非十分熟悉當地環境，否則避免夜晚踩。\n</item>
+        <item>            由東涌出發，沿海旁邊路一直踩，再轉入翔東路，再去迪士尼及迪欣湖。翔東路有少少斜路，不過容易應付。
+            愈近迪士尼，馬路愈多車。迪士尼樂園酒店可推車入，但不可以踩。迪欣湖有7-11，可以補給。</item>
+        <item>            由大圍站出發，沿沙田海岸前進，路上景色不錯而且有很多地方可以補充食物和飲料。</item>
+        <item>            路線很長，但是風景不錯，具體路程為：城門水塘> 引水道> 油柑頭> 荃灣西鐵站(跟隊)>
+        汀九> 青龍頭> 大欖 > 屯門> 屏山> 元朗> 牛潭尾> 新田軍營> 麒麟山坳> 上水(離隊)> 粉嶺> 大埔> 沙田> 大圍> 金山> 石梨</item>
+        <item>            路程較長，但可以看到很多景色，比如寶蓮寺。中間需要坐船，雨天路會很滑，要注意安全。</item>
+        <item>            从城門河出发，路上会经过香港科技園公司，白石角海濱長廊等地方，还有许多美丽的风景，
+            最后抵达大埔海濱公園。路上有餐馆可以补充食物和饮料。</item>
+    </string-array>
+    <string-array name="property">
+        <item>開始追蹤路徑</item>
+        <item>暫停追蹤路徑</item>
+        <item>儲存目前路徑</item>
+        <item>地圖顯示設定</item>
+    </string-array>
+
+    <string name="btn_submit">submit</string>
+    <string name="btn_back">Back</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nonLogin">你還沒登入哦！\n可以點選左邊登入！\n或是直接展開旅程！</string>
+    <string name="title_activity_picture_share">PictureShare</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="pre_map_info">選擇要在地圖上顯示的物件</string>
+    <string name="pre_map_control">進階地圖功能</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_preference">PreferenceActivity</string>
+    <string name="about">This is the final project in summer camp in CityU HK\n\n
+        Programmer: Alexpon,JW Shih\n\nUI Designer: Yani\n\nMarket Researcher: Wanmin</string>
+    <string name="title_activity_change_user_data">ChangeUserData</string>
+    <string name="title_activity_rank">RankActivity</string>
+
+</resources>

@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background2"
+    tools:context="mbp.alexpon.com.login_register.Login">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Username"
+        android:textSize="30dp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:id="@+id/tvUsername"
+        android:layout_marginTop="69dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_below="@+id/tvUsername"
+        android:id="@+id/edUsername" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:text="Password"
+        android:layout_below="@+id/edUsername"
+        android:id="@+id/tvPassword" />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:inputType="textPassword"
+        android:layout_below="@id/tvPassword"
+        android:id="@+id/edPassword" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:background="#116493"
+        android:text="Login"
+        android:textSize="25dp"
+        android:textStyle="italic"
+        android:textColor="#ffffff"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:id="@+id/registerLink"
+        android:background="#116493"
+        android:text="Register"
+        android:textSize="25dp"
+        android:textStyle="italic"
+        android:textColor="#ffffff"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignTop="@+id/submit"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>

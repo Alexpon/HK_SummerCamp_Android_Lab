@@ -1,0 +1,112 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background2"
+    tools:context="mbp.alexpon.com.login_register.Register">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:text="Name"
+        android:id="@+id/tvRN"
+        android:layout_alignParentTop="true"
+        android:layout_alignEnd="@+id/register"
+        android:layout_marginTop="46dp" />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/edRN"
+        android:layout_below="@+id/tvRN"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:text="Age"
+        android:id="@+id/tvRAge"
+        android:layout_below="@+id/edRN"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:inputType="number"
+        android:id="@+id/edAge"
+        android:layout_below="@+id/tvRAge"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:text="Username"
+        android:id="@+id/tvRUN"
+        android:layout_below="@+id/edAge"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/edRUN"
+        android:layout_below="@+id/tvRUN"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:text="Password"
+        android:id="@+id/tvRPD"
+        android:layout_below="@+id/edRUN"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:inputType="textPassword"
+        android:id="@+id/edRPD"
+        android:layout_below="@+id/tvRPD"/>
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:background="#116493"
+        android:text="Register"
+        android:textSize="25dp"
+        android:textStyle="italic"
+        android:textColor="#ffffff"
+        android:layout_gravity="right"
+        android:layout_marginTop="72dp"
+        android:layout_below="@+id/edRPD"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:id="@+id/menu"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:background="#116493"
+        android:text="Menu"
+        android:textSize="25dp"
+        android:textStyle="italic"
+        android:textColor="#ffffff"
+        android:layout_alignTop="@+id/register"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>

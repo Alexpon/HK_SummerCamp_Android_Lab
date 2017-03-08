@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/AndroidStudioProjects/HKBike/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/apple/AndroidStudioProjects/HKBike/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-0e232eeefcdb203d99c63c22abad21c86fdc7687.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/HKBike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/apple/AndroidStudioProjects/HKBike/app/build/intermediates/pre-dexed/debug/classes-f0343c76496c2f88b9d26a49f88903832590140c.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/HKBike/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/apple/AndroidStudioProjects/HKBike/app/build/intermediates/pre-dexed/debug/classes-27cf730440f860d83651f4dc6ec5451f0d4154c5.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/apple/AndroidStudioProjects/HKBike/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-b201bc2c383ea2e10b24fc3a5eeb5890c1c9b09e.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/HKBike/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/apple/AndroidStudioProjects/HKBike/app/build/intermediates/pre-dexed/debug/classes-0279dba8531b545908e7fb8611ced6be1ef84fe7.jar" />
+    </item>
+
+</items>
